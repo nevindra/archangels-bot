@@ -54,36 +54,6 @@ If you are not cloning this repo, make sure your dependencies versions are the s
 | !now-playing       | Display the current playing song with a playback bar                                                        | !now-playing       |
 | !move       | Move song to a desired position in queue                                                        | !move 8 1      |
 
-- Misc
-
-| Command      | Description                                                                                                                                                         | Usage                 |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| !cat         | Get a cute cat picture                                                                                                                                              | !cat                  |
-| !dog         | Get a cute dog picture                                                                                                                                              | !dog                  |
-| !fortune     | Get a fortune cookie tip                                                                                                                                            | !fortune              |
-| !insult      | Generate an evil insult                                                                                                                                             | !insult               |
-| !chucknorris | Get a satirical fact about Chuck Norris                                                                                                                             | !chucknorris          |
-| !motivation  | Get a random motivational quote                                                                                                                                     | !motivation           |
-| !global-news | Latest headlines from reuters, you can change the news source to whatever news source you want, just change the source in line 13 in global-news.js or ynet-news.js | !global-news          |
-| !random      | Generate a random number between two provided numbers                                                                                                               | !random 0 100         |
-| !reddit      | Replies with 5 top non nsfw subreddit posts                                                                                                                         | !reddit askreddit     |
-| !say         | Make the bot say anything                                                                                                                                           | !say Lorem Ipsum      |
-| !translate   | Translate to any language using yandex translation service(only supported lanugages)                                                                          | !translate ありがとう |
-| !whomademe   | Info about me and the repo                                                                                                                                          | !whomademe            |
-| !uptime      | Replies with the bot's total uptime                                                                                                                                 | !uptime               |
-| !8ball      | Get the answer to anything!                                                                                                                                   |     !8ball Is this bot awesome?               |
-| !rps      | Rock Paper Scissors                                                                                                                                | !rps               |
-
-
-- Gifs
-
-| Command   | Description                         | Usage                   |
-| --------- | ----------------------------------- | ----------------------- |
-| !animegif | Get an anime related gif by a query | !animegif one punch man |
-| !gif      | Get any gif by a query              | !gif labrador           |
-| !gintama  | Replies with a random gintama gif   | !gintama                |
-| !jojo     | Replies with a random jojo gif       | !jojo                   |
-
 - Guild
 
 | Command               | Description                     | Usage                                 |
@@ -94,29 +64,6 @@ If you are not cloning this repo, make sure your dependencies versions are the s
 
 ### Resources
 
-[Get a Tenor API key here](https://tenor.com/developer/keyregistration)
-
-[Get a NewsAPI API key here](https://newsapi.org/)
-
 [How to get a Youtube API key](https://developers.google.com/youtube/v3/getting-started)
 
-[Get a Yandex API key here](https://translate.yandex.com/developers/keys)
-
 [Get a Genius API key here](https://genius.com/api-clients/new)
-
-[Installing node.js on debian](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-debian-9)
-
-[Installing node.js on Windows](https://treehouse.github.io/installation-guides/windows/node-windows.html)
-
-### Contributing
-
-Fork it and submit a pull request!
-Anyone is welcome to suggest new features and improve code quality!
-
-## Contributors
-
-[malokdev](https://github.com/malokdev) - uptime command
-
-[chimaerra](https://github.com/chimaerra) - minor command tweaks
-
-[ModoSN](https://github.com/ModoSN) - rps, 8ball commands 
